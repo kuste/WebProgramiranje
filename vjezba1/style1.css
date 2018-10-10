@@ -1,0 +1,33 @@
+/* 0 bodova*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* 1 bod*/
+li {
+  display: inline-block;
+  color: blue;
+  padding: 1em 2em;
+}
+
+/* 1 bod*/
+header {
+  background-color: #e8e8e8;
+}
+
+/* 1 bod*/
+p {
+  background-color: #d9d9d9;
+  padding: 2em;
+}
+
+/*1 bod*/
+a {
+  text-decoration: none;
+}
+
+/* 10 bodova*/
+a:hover {
+  color: green;
+}
